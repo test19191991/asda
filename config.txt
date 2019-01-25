@@ -1,4 +1,4 @@
-﻿token= NTM4MzE3MDg3MzM3MDg2OTc2.DyyCyA.zEHa0hfGcK7EcHVOnmKk_p75AH8
+token= NTM4MzE3MDg3MzM3MDg2OTc2.DyyCyA.zEHa0hfGcK7EcHVOnmKk_p75AH8
 owner= 402030353159684097 
 prefix=l
 game=type=lhelp 
