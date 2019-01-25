@@ -1,6 +1,6 @@
 token= NTM4MzE3MDg3MzM3MDg2OTc2.DyyCyA.zEHa0hfGcK7EcHVOnmKk_p75AH8
 owner= 402030353159684097 
-prefix=l
-game=type=lhelp 
+prefix=a
+game=type=aplay
 stayinchannel=true 
 songinstatus=true
